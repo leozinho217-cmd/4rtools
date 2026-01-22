@@ -1,0 +1,532 @@
+{
+  "keySpam": {
+    "delay": 5,
+    "flick": false,
+    "noShift": false,
+    "mode": 0,
+    "entries": []
+  },
+  "autopotHpSp": {
+    "delay": 10,
+    "hpKey": 0,
+    "hpPercent": 0,
+    "spKey": 0,
+    "spPercent": 0,
+    "healPriority": 0,
+    "stopInCity": false,
+    "stopOnCriticalWound": false
+  },
+  "autopotYgg": {
+    "delay": 50,
+    "hpKey": 0,
+    "hpPercent": 0,
+    "spKey": 0,
+    "spPercent": 0,
+    "healPriority": 0,
+    "stopInCity": false,
+    "stopOnCriticalWound": false
+  },
+  "autopotAp": {
+    "key": 0,
+    "value": 0,
+    "delay": 400,
+    "stopInCity": false
+  },
+  "autoBuff": {
+    "entries": {},
+    "chainEntries": {},
+    "delay": 300,
+    "stopInCity": false,
+    "highPriority": false
+  },
+  "autoDebuff": {
+    "groups": {},
+    "entries": {},
+    "delay": 300,
+    "stopInCity": false
+  },
+  "autoStuff": {
+    "entries": {},
+    "delay": 300,
+    "stopInCity": false
+  },
+  "macroSwitch": {
+    "entries": {
+      "1": {
+        "id": 1,
+        "trigger": 0,
+        "flick": false,
+        "crazyMode": false,
+        "forceRotation": false,
+        "keyEntries": {
+          "1": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "2": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "3": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "4": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "5": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "6": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "7": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "8": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          }
+        }
+      },
+      "2": {
+        "id": 2,
+        "trigger": 0,
+        "flick": false,
+        "crazyMode": false,
+        "forceRotation": false,
+        "keyEntries": {
+          "1": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "2": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "3": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "4": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "5": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "6": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "7": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "8": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          }
+        }
+      },
+      "3": {
+        "id": 3,
+        "trigger": 0,
+        "flick": false,
+        "crazyMode": false,
+        "forceRotation": false,
+        "keyEntries": {
+          "1": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "2": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "3": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "4": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "5": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "6": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "7": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "8": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          }
+        }
+      },
+      "4": {
+        "id": 4,
+        "trigger": 0,
+        "flick": false,
+        "crazyMode": false,
+        "forceRotation": false,
+        "keyEntries": {
+          "1": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "2": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "3": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "4": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "5": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "6": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "7": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "8": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          }
+        }
+      },
+      "5": {
+        "id": 5,
+        "trigger": 0,
+        "flick": false,
+        "crazyMode": false,
+        "forceRotation": false,
+        "keyEntries": {
+          "1": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "2": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "3": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "4": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "5": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "6": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "7": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "8": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          }
+        }
+      },
+      "6": {
+        "id": 6,
+        "trigger": 0,
+        "flick": false,
+        "crazyMode": false,
+        "forceRotation": false,
+        "keyEntries": {
+          "1": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "2": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "3": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "4": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "5": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "6": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "7": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          },
+          "8": {
+            "key": 0,
+            "delay": 0,
+            "click": false
+          }
+        }
+      }
+    }
+  },
+  "atkDef": {
+    "stopInCity": false,
+    "entries": {
+      "1": {
+        "id": 1,
+        "switchDelay": 20,
+        "defEntries": {
+          "weapon": 0,
+          "garment": 0,
+          "armor": 0,
+          "shield": 0,
+          "shoes": 0,
+          "helm": 0
+        },
+        "atkEntries": {
+          "weapon": 0,
+          "garment": 0,
+          "armor": 0,
+          "shield": 0,
+          "shoes": 0,
+          "helm": 0
+        },
+        "key": 0,
+        "delay": 5,
+        "click": false
+      },
+      "2": {
+        "id": 2,
+        "switchDelay": 20,
+        "defEntries": {
+          "weapon": 0,
+          "garment": 0,
+          "armor": 0,
+          "shield": 0,
+          "shoes": 0,
+          "helm": 0
+        },
+        "atkEntries": {
+          "weapon": 0,
+          "garment": 0,
+          "armor": 0,
+          "shield": 0,
+          "shoes": 0,
+          "helm": 0
+        },
+        "key": 0,
+        "delay": 5,
+        "click": false
+      },
+      "3": {
+        "id": 3,
+        "switchDelay": 20,
+        "defEntries": {
+          "weapon": 0,
+          "garment": 0,
+          "armor": 0,
+          "shield": 0,
+          "shoes": 0,
+          "helm": 0
+        },
+        "atkEntries": {
+          "weapon": 0,
+          "garment": 0,
+          "armor": 0,
+          "shield": 0,
+          "shoes": 0,
+          "helm": 0
+        },
+        "key": 0,
+        "delay": 5,
+        "click": false
+      },
+      "4": {
+        "id": 4,
+        "switchDelay": 20,
+        "defEntries": {
+          "weapon": 0,
+          "garment": 0,
+          "armor": 0,
+          "shield": 0,
+          "shoes": 0,
+          "helm": 0
+        },
+        "atkEntries": {
+          "weapon": 0,
+          "garment": 0,
+          "armor": 0,
+          "shield": 0,
+          "shoes": 0,
+          "helm": 0
+        },
+        "key": 0,
+        "delay": 5,
+        "click": false
+      }
+    }
+  },
+  "timerz": {
+    "stopInCity": false,
+    "entries": {
+      "1": {
+        "key": 0,
+        "delay": 5,
+        "click": false
+      },
+      "2": {
+        "key": 0,
+        "delay": 5,
+        "click": false
+      },
+      "3": {
+        "key": 0,
+        "delay": 5,
+        "click": false
+      },
+      "4": {
+        "key": 0,
+        "delay": 5,
+        "click": false
+      }
+    }
+  },
+  "stopwatchz": {
+    "key": 0
+  },
+  "awakening": {
+    "stopInCity": false,
+    "entries": {
+      "1": {
+        "delay": 1,
+        "enabled": false,
+        "sound": "Padrão 1",
+        "element": 0
+      },
+      "2": {
+        "delay": 1,
+        "enabled": false,
+        "sound": "Padrão 1",
+        "element": 0
+      },
+      "3": {
+        "delay": 1,
+        "enabled": false,
+        "sound": "Padrão 1",
+        "element": 0
+      }
+    }
+  },
+  "mouseSpamLeft": {
+    "key": 0,
+    "delay": 10,
+    "enabled": false,
+    "alwaysEnabled": false,
+    "button": 1
+  },
+  "mouseSpamRight": {
+    "key": 0,
+    "delay": 10,
+    "enabled": false,
+    "alwaysEnabled": false,
+    "button": 2
+  },
+  "ridding": {
+    "key": 0,
+    "enabled": false,
+    "stopBuffs": false,
+    "wargStrikeKey": 0,
+    "wargStrikeEnabled": false
+  },
+  "userPreferences": {
+    "toggleStateKey": 21,
+    "skipAutobuffKey": 8,
+    "skipAutobuffActive": false,
+    "skipWhenChatIsOpened": false,
+    "skipWhenDialogIsOpened": false,
+    "preventStartWithoutBind": false,
+    "enableBindCheckInRealTime": false,
+    "minimizeWindowAfterStart": false,
+    "minimizeWindowToSystemTray": false,
+    "turnOffWhenCharacterIsNotSelected": true
+  }
+}
