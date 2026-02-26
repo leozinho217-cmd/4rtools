@@ -1,0 +1,15 @@
+{
+  "qualCorGame": {
+    "enabled": false,
+    "riddle": "Qual cor eu tiro 4 letras e fica 5?",
+    "answer": "verde",
+    "explanation": "VERDE tem 5 letras (V-E-R-D-E). Tirando 4 letras (V, R, D, E), fica a letra E, que é a 5ª letra do alfabeto.",
+    "reward": {
+      "zeny": 0,
+      "item": ""
+    },
+    "chatChannel": "public",
+    "announceOnStart": true,
+    "caseSensitive": false
+  }
+}
